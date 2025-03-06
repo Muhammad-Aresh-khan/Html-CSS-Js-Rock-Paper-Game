@@ -48,4 +48,8 @@ This is a simple **Rock Paper Scissors** game built using **HTML, CSS, and JavaS
 4️⃣ Score updates automatically and is saved in **local storage**.  
 5️⃣ Click **Reset Score** to clear the game progress.  
 
+## Live Demo 🚀  
+
+ https://muhammad-aresh-khan.github.io/Html-CSS-Js-Rock-Paper-
+
 🔹 **Enjoy the game!** 🎉  
