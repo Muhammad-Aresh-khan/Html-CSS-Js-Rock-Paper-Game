@@ -50,6 +50,6 @@ This is a simple **Rock Paper Scissors** game built using **HTML, CSS, and JavaS
 
 ## Live Demo 🚀  
 
- https://muhammad-aresh-khan.github.io/Html-CSS-Js-Rock-Paper-
+ https://muhammad-aresh-khan.github.io/Html-CSS-Js-Rock-Paper-Game/
 
 🔹 **Enjoy the game!** 🎉  
